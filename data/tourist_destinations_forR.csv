@@ -1,0 +1,14 @@
+index,tourist_site,address,cost
+1,City Hall,"200 N Spring St, Los Angeles, CA 90012",free
+2,Griffith obs,"2800 E Observatory Rd, Los Angeles, CA 90027",free
+3,Korean Bell of Friendship,"3601 S Gaffey St, San Pedro, CA 90731",free
+4,Watts Towers,"1727 E 107th St, Los Angeles, CA 90002",free
+5,The Forum,"3900 W Manchester Blvd, Inglewood, CA 90305",$$$
+6,Hollywood Bowl,"2301 N Highland Ave, Los Angeles, CA 90068",$$$
+7,Dodger Stadium,"1000 Elysian Park Avenue, Los Angeles, CA 90012",$$
+8,Japanese American National Museum,"369 E 1st St Little Tokyo, Los Angeles, CA 90012-3901",free
+9,Olvera Street,"Main and Alameda streets 125 Paseo de la Plaza 90012, Los Angeles, CA 90012",free
+10,The Getty ,"1200 Getty Center Dr, Los Angeles, CA 90049",$
+11,Muscle Beach,"1800 Ocean Front Walk, Venice, CA 90291",free
+12,Rose Bowl,"1001 Rose Bowl Dr, Pasadena, CA 91103",$$
+13,Young Research Library,"280 Charles E Young Dr N, Los Angeles, CA 90095",free
